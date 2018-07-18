@@ -35,6 +35,25 @@
 
 16)Find out how to delete your remote second branch and run the command.
 
-16)use git log to see the history of your first branch.
+17)use git log to see the history of your first branch.
+
+18)Create a new branch off of your first branch of the form firstname-lastname-3.
+
+19)Open "Lyrics" and remove the lyrics to "Never Gunna Give You Up".
+
+20)Push the changes to Git Hub.
+
+21)Create a new branch off of your first branch of the form firstname-lastname-4.
+
+22)Open "Lyrics and remove the lyrics to "All Star".
+
+23)Push the changes to Git Hub.
+
+24)Switch to your first branch and merge your third branch into it.
+
+25)Merge your forth branch into your first branch and solve the merge conflict.
+
+26)Push your changes to github.
+
 
 #Completed
