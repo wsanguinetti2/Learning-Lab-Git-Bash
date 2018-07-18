@@ -11,13 +11,13 @@
 
 4)Push the changes to github.
 
-5)Create a new branch based off of your first branch in the form firstname-lastname-2.
+5)Create a new branch based off of your first branch in the form firstname-lastname-2 and switch to it.
 
 6)Open "Lyrics" and append the lyrics to "All Star" by Smash Mouth to the end of the document. 
 
-7)Use git stash and switch to your first branch with out commit the changes.
+7)Use git stash and switch to your first branch with out commiting the changes.
 
-8)Switching back notice how your changes are seved locally.
+8)Switching back notice how your changes are saved locally.
 
 9)Push the changes to github.
 
@@ -35,9 +35,9 @@
 
 16)Find out how to delete your remote second branch and run the command.
 
-17)use git log to see the history of your first branch.
+17)use git log to see the history of your first branch. Press q to exit.
 
-18)Create a new branch off of your first branch of the form firstname-lastname-3.
+18)Create a new branch off of your first branch of the form firstname-lastname-3 and switch to it.
 
 19)Open "Lyrics" and remove the lyrics to "Never Gunna Give You Up".
 
@@ -51,9 +51,13 @@
 
 24)Switch to your first branch and merge your third branch into it.
 
-25)Merge your forth branch into your first branch and solve the merge conflict.
+25)Delete your third branch both locally and remotely.
 
-26)Push your changes to github.
+26)Merge your forth branch into your first branch and solve the merge conflict by keeping both lyrics in the file.
+
+27)Delete your fourth branch both locally and remotely.
+
+28)Push your changes to github.
 
 
 #Completed
